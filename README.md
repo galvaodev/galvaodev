@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, Sass, Bootstrap, Nodejs, Reactjs, ReactNative, Wordpress, PHP, Laravel.</strong>
+  🚀 Skills: <strong>HTML5, CSS3, Sass, Bootstrap, Nodejs, Reactjs, ReactNative, Typescript, Wordpress, PHP, Laravel.</strong>
 </p>
 
 <p align="left">
-  🌈 Estudando atualmente: <strong>JavaScript e ReactJS (Typescript).</strong>
+  🌈 Estudando atualmente: <strong>Flutter.</strong>
 </p>
 
 <p align="left">
-  🔥 Pretende aprender: <strong>Vue.JS, React Native, TypeScript e UX Design.</strong>
+  🔥 Pretende aprender: <strong>Python e UX Design.</strong>
 </p>
 
 <p align="left">
