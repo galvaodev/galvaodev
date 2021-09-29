@@ -2,7 +2,7 @@
 
 <p align="left">
   Olá, meu nome é João sou <strong>Desenvolvedor Front-end</strong>.<br>
-  Estou cada buscando novos conhecimentos e desafios. 
+  Estou cada dia mais em busca de novos conhecimentos e desafios. 
 </p>
 
 <p align="left">
