@@ -21,13 +21,4 @@
 📫  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
 </p>
 
-<p align="left">
-<a href="mailto:galvaopp@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/-galvaopp@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=galvaopp@gmail.com" /></a>
-  
-<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-galv%C3%A3o-modesto-38713b83/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-João%20Galvão-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-victor-galv%C3%A3o-modesto-38713b83/" /></a>
-  
- </p>
- 
- 
+
